@@ -1,9 +1,10 @@
-# Golang | Try
+# Javascript | Try
 
+![jsjs](https://user-images.githubusercontent.com/91592995/194671024-5fce110b-81fd-4dfb-bc22-c6fb8ffec4a9.png)
 
 ### About
 
-My first experience in golang
+My first experience in javascript
 
 ### Author
 
